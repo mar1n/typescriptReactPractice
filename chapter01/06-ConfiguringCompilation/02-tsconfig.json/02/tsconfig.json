@@ -8,5 +8,5 @@
     "noImplicitReturns": true,
     "noImplicitAny": true
   },
-  "files": ["product.ts", "orderDetail.ts"]
+  "include": ["src/**/*"]
 }
